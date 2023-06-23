@@ -1,2 +1,4 @@
 # Game-Success-Prediction
-This project was done by me and my colleague, Bar Amir, and this is our final project in Data Science Course in college. Our main work was to check whether game-success prediction is possible or not using Python, data science & machine learning libraries. We received about 88% of accuracy.
+This project aims to predict the success of a game using machine learning models. The data was collected using web scraping & crawling with bs, and the main goal is to predict whether a game will be successful or not based on number of properties such as developer, genre, etc.
+
+# Getting Started
